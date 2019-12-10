@@ -1,0 +1,2 @@
+# This repository is effectively locked.
+Development on Lilac by myself will not be continuing, I'm much busier with other things and the interest in it is too low to be worth it (not to mention the current state of Lilac is sufficient for what it needs to do). This repository **is NOT accepting pull requests** and **likely will NOT be receiving further updates.** It serves as a read-only look into how the bot works, in case anyone happens to be curious.
